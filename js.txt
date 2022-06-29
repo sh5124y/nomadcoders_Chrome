@@ -1,0 +1,10 @@
+let 와 const의 차이점
+const는 constant(상수)라는것이고, constant는 값이 바뀔 수 없음
+
+variable 값을 변경하는게 필요한 경우도 있을까?
+
+let는 생성할때 사용하는것. 
+const로 variable을 만들었다면 절대 값을 생성 할 수 없음.
+
+var은 어디서나 사용할 수 있음. 
+언어를 통한 보호를 받지 못 함.
